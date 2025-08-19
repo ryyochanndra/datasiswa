@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Manajemen Siswa</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+<body class="min-h-screen" style="background-image: url('https://form.mansumenep.sch.id/img/RKB2024.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; background-attachment: fixed;">
+    <div class="min-h-screen bg-white bg-opacity-80">
+        <div class="container mx-auto px-4 py-0">
+        <!-- Header Section -->
+        <div class="text-center mb-12">
+            <div class="inline-flex items-center justify-center" style="margin-top: -100px;">
+                <img src="https://form.mansumenep.sch.id/img/logokop.png" alt="Logo" class="object-contain" style="width: 300px; height: 300px;">
+            </div>
+            <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-1" style="margin-top: -90px;">
+                Data Manajemen
+            </h1>
+            <h2 class="text-xl md:text-2xl font-semibold text-gray-600 mb-1">
+                Siswa & Ijazah
+            </h2>
+            <h2 class="text-xl md:text-2xl font-semibold text-gray-600 mb-1">
+                Angkatan 2024-2025
+            </h2>
+            <p class="text-sm text-gray-600 max-w-2xl mx-auto mb-6">
+                Sistem pengelolaan data siswa yang mudah dan efisien untuk mendukung administrasi akademik yang lebih baik. Terkait dengan DATA SISWA dan DATA IJAZAH. Platform terpadu untuk mengelola informasi lengkap siswa.
+            </p>
+        </div>
+
+        <!-- Info Cards -->
+        <div class="grid md:grid-cols-2 gap-4 max-w-4xl mx-auto mt-8">
+            <div class="bg-white rounded-xl p-4 shadow-md">
+                <div class="flex items-center mb-4">
+                    <div class="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center mr-4">
+                        <svg class="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                        </svg>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-800">Isi Form</h3>
+                </div>
+                <p class="text-gray-600">
+                    Tambahkan data siswa baru dengan mengisi formulir lengkap yang tersedia. Masukkan informasi biodata, data orang tua, dan dokumen pendukung dengan mudah dan aman.
+                </p>
+            </div>
+
+            <div class="bg-white rounded-xl p-4 shadow-md">
+                <div class="flex items-center mb-4">
+                    <div class="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mr-4">
+                        <svg class="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4"></path>
+                        </svg>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-800">Update Data</h3>
+                </div>
+                <p class="text-gray-600">
+                    Perbarui informasi siswa yang sudah ada dalam database sistem. Edit data biodata, kontak, atau informasi akademik kapan saja dengan proses yang cepat dan terpercaya.
+                </p>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="text-center mt-8">
+            <p class="text-gray-500">
+                © 2024 by IT MANSAS
+            </p>
+        </div>
+        </div>
+    </div>
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'96b88798869daecd',t:'MTc1NDU4ODExOC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'96cc4b31a445fd38',t:'MTc1NDc5NTM2MS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
